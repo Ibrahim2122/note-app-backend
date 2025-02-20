@@ -1,8 +1,3 @@
-
----
-
-### **Note-Summary app - Backend**
-```md
 # 🚀 AI Note Summarization - Backend
 
 ## 📌 Overview  
